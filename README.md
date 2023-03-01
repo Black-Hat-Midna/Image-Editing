@@ -1,5 +1,7 @@
 # Image_Editing
 
+crop a part of one image into that of another seamlessly (I.E without mismatching colours etc.).
+
 links to used images:
 
 text1 = https://pxhere.com/en/photo/769942
